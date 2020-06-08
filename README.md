@@ -4,6 +4,8 @@
 
 - [linux内核启动流程分析 - efistub的入口函数](https://mp.weixin.qq.com/s?__biz=MzUxNDUwOTc0Nw==&tempkey=MTA2NF9sYk11a21XYXB0UHVvTnRzY0FfYmQwTFFhSXVUYmMwRkJSUGFsRk44VEx4TDJlazl3OFBiZm1FaFFHdUZnYk0yMlFmYmkwSGMtWVlOTTBISnFFZVZ1ZGNWWnhMWVNQQy1YTVBRU3U2WlBmZzc4M01YZ3RQTVdlUlRUVlh1cGVxSE1YbWdCbXctMVRURnJxcExRd0dUQUdYdUdDaTdGZFRsbE95YXB3fn4%3D&chksm=79459bd94e3212cfa1756bb4250cd1e974692ee8f1798c3f39830766daaf7c12c3ae162b9a64#rd)
 
+---
+
 也欢迎大家直接关注我公众号来阅读相关文章。
 
-![weixin](qrcode.jpg)
+![weixin](qrcode.jpg){:height="50%" width="50%"}
