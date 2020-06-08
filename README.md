@@ -8,4 +8,4 @@
 
 也欢迎大家直接关注我公众号来阅读相关文章。
 
-![weixin](qrcode.jpg){:height="50%" width="50%"}
+![weixin](qrcode.png)
